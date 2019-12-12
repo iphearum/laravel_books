@@ -11,6 +11,7 @@
 
 1. clone this project
 2. using command bellow
+
    $composer install
    
    $php artisan key:generate
