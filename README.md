@@ -11,7 +11,7 @@
 
 1. clone this project
 2. using command bellow
-   $composer install
-   $php artisan key:generate
-   $php artisan migrate
+   $composer install\n
+   $php artisan key:generate\n
+   $php artisan migrate\n
    $php artisan serve
